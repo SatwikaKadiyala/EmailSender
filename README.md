@@ -24,8 +24,4 @@ git clone https://github.com/your-username/email-sender.git
 cd email-sender
 ```
 
-3. Install dependencies:
-
-npm install
-
 
