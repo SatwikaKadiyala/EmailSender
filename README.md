@@ -1,10 +1,8 @@
 # EmailSender
 
-Certainly! Here's a basic project structure and description for an email sender using HTML, CSS, Node.js, and the Nodemailer plugin:
-
 ### Project Description
 
-This project combines HTML, CSS, and Node.js with the Nodemailer plugin to create a simple email sender application. Users can input the recipient's email address, subject, message, and attachment , and the application will send the email using the configured email service provider.
+This project combines HTML, CSS, and Node.js with the Nodemailer plugin to create a simple email sender application. Users can input the recipient's email address, subject, message, and attachment, and the application will send the email using the configured email service provider.
 
 ### Features
 
